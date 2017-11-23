@@ -1,7 +1,5 @@
 # animation_explosion-of-particles (Анимация взрыва частиц)
 
-Позволяет добавить на DOM-елемент "живую" каплю воды
-
 ![alt text](https://raw.githubusercontent.com/mrzigo/animation_explosion-of-particles/master/example.gif)
 
 ## Установка
@@ -54,5 +52,5 @@
 
 ## Недостатки
 ```
-  1. Ручное позиционирование
+  1. Ручное позиционирование canvas области
 ```
